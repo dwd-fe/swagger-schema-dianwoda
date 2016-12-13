@@ -1,0 +1,16 @@
+{
+  "name": "swagger-schema-dianwoda",
+  "version": "2.0.1",
+  "description": "Swagger JSON Schema ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swagger",
+    "schema",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "_from": "swagger-schema-official@2.0.0-bab6bed"
+}
